@@ -43,6 +43,7 @@ dependencies:
   agora_rtc_engine: ^6.1.0
   pip_view: ^0.9.7
   get: ^4.6.5
+  agora_chat_sdk: ^1.2.0
 
 dev_dependencies:
   flutter_test:

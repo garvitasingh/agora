@@ -1,4 +1,4 @@
 /// Define App ID and Token
-const appId = 'c75be1bc368b466f83f38c1247d9a494';
-const channelId = "garvita";
-const token ="e5d7863063804216b175e8439a2aea7f";
+const appId = 'a6e9bc01f6fa4cefaebf46706c6f7334';
+const channelId = "pinku";
+const token ="007eJxTYHhpHreZ+87rk7MrLwTXzoi8pqfxtWnunpzaxyvXzFybPOGHAkOiWaplUrKBYZpZWqJJcmpaYmpSmomZuYFZslmaubGxySGjF6kNgYwM0TPCGBihEMRnZSjIzMsuZWAAAJyXI+M=";

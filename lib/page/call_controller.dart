@@ -5,7 +5,7 @@ import 'package:videocallingappdemo/utils/settings.dart';
 import 'package:wakelock/wakelock.dart';
 
 class CallController extends GetxController {
-  RxInt myremoteUid = 0.obs;
+  RxInt myremoteUid = 1.obs;
   RxBool localUserJoined = false.obs;
   RxBool muted = false.obs;
   RxBool videoPaused = false.obs;

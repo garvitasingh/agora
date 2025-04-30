@@ -12,7 +12,7 @@ class VoiceCallView extends StatefulWidget {
 }
 
 class _VoiceCallViewState extends State<VoiceCallView> {
-  int uid = 0; // uid of the local user
+  int uid = 1; // uid of the local user
 
   int? _remoteUid; // uid of the remote user
   bool _isJoined = false; // Indicates if the local user has joined the channel
